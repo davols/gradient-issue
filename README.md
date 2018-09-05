@@ -13,10 +13,13 @@ The issue is with View2 and View3 with API < 26.
 How it should look: 
 ![nexus4api27](https://github.com/davols/gradient-issue/blob/master/emulator_nexus4_api27.png?raw=true)
 
-Issues with actual phone:
+Issues with actual phone (Sony with API24):
 ![sonyapi24](https://github.com/davols/gradient-issue/blob/master/sony_api24.png?raw=true)
 
 More examples that show the issue:
+Emulator api 25
 ![nexusapi25](https://github.com/davols/gradient-issue/blob/master/emulator_pixel_api25.png?raw=true)
+Emulator api 24
 ![nexusapi24](https://github.com/davols/gradient-issue/blob/master/emulator_nexus5x_api_24.png?raw=true)
+Emulator api 23
 ![nexusapi23](https://github.com/davols/gradient-issue/blob/master/emulator_pixel_api23.png?raw=true)
