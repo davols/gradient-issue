@@ -10,7 +10,7 @@ The layout consists of 4 views.
 * View4: gradient drawable with reference to colors.
 
 The issue is with View2 and View3 with API < 26. 
-How it should look: 
+How it should look (Emulator api 27)
 ![nexus4api27](https://github.com/davols/gradient-issue/blob/master/emulator_nexus4_api27.png?raw=true)
 
 Issues with actual phone (Sony with API24):
